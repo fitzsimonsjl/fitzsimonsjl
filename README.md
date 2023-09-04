@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some cloud DFIR things, and few other personal projects (with a security focus) in between.
-- 🌱 I’m currently learning as much as I can about cloud security - specifically Azure and AWS.
+- 🌱 I’m aiming to learn as much as I can about cloud security - specifically Azure and AWS.
 - 💻 When I find the time, I write things about privacy and security, or take photos - you can find both [on my blog](https://fitzsimonsjl.com)
 <!--
 **fitzsimonsjl/fitzsimonsjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
